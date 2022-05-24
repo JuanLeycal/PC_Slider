@@ -1,2 +1,2 @@
-# Game2-Name-subject-to-change-
+# PC_Slider
 Juego en desarrollo.
